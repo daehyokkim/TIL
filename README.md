@@ -10,3 +10,11 @@
 
 
 
+---
+
+### Operating System(운영체제)
+
+---
+
+### Algorism(알고리즘)
+
