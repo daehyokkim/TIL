@@ -18,3 +18,6 @@
 
 ### Algorism(알고리즘)
 
+[알고리즘 공부:fist_oncoming:](https://github.com/daehyokkim/TIL/tree/master/Algorithm)
+
+[자료구조 공부:pushpin:](https://github.com/daehyokkim/TIL/tree/master/DataStructures)
