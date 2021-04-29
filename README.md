@@ -22,6 +22,8 @@
 
 [자료구조 공부:pushpin:](https://github.com/daehyokkim/TIL/tree/master/DataStructures)
 
+---
+
 ### DebuggingNote(디버깅노트)
 발생했던 오류들 정리해보기!!~~~
 [디버깅노트정리](https://github.com/daehyokkim/TIL/tree/master/DebuggingNote)
