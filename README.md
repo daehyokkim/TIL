@@ -21,3 +21,10 @@
 [알고리즘 공부:fist_oncoming:](https://github.com/daehyokkim/TIL/tree/master/Algorithm)
 
 [자료구조 공부:pushpin:](https://github.com/daehyokkim/TIL/tree/master/DataStructures)
+
+---
+
+### DebuggingNote(디버깅노트)
+발생했던 오류들 정리해보기!!~~~ <br>
+[디버깅노트정리:bug:](https://github.com/daehyokkim/TIL/tree/master/DebuggingNote) 
+
